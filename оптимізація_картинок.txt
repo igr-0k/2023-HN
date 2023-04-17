@@ -1,0 +1,6 @@
+
+Сервіс для оптимізації картинок для сайту
+https://squoosh.app/
+
+https://compressjpeg.com/
+
